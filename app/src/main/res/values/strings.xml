@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learning English</string>
+
+    <string name="company_name">Javokhir_apps</string>
+    <string name="app_info">"Hello, this app will help you learn English. The application contains more than 7600 words. You can find words you don't know."</string>
+    <string name="socials">Social links:</string>
+    <string name="ratings">Rating</string>
+    <string name="app_version">1.0.0</string>
+</resources>
